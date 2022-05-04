@@ -4,7 +4,7 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 ## Development server
 
-Execute `ng serve` para um dev server. Direcione seu navegador para `http://localhost:4200/`. A aplicação será automaticamente recarregada sempre que qualquer alteraçãofor salva.
+Execute `ng serve` para um dev server. Direcione seu navegador para `http://localhost:4200/`. A aplicação será automaticamente recarregada sempre que qualquer alteração for salva.
 
 ## Code scaffolding
 
